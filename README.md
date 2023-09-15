@@ -12,6 +12,12 @@
 <a href="https://linkedin.com/in/fazal09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fazal09" height="30" width="40" /></a>
 </p>
 
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -33,5 +39,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
 </div>
+
+###
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sulemanfazal12&show_icons=true&locale=en&layout=compact" alt="sulemanfazal12" /></p>
