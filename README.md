@@ -14,9 +14,6 @@
   <a href="https://www.instagram.com/suleman_fazal_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="sulemanfazal12@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
@@ -29,7 +26,7 @@
 
 ###
 
-<p align="left">I'm S Suleman <br><br>- 🔭 I’m working as DevOps Engineer<br>- 📚 I'm currently learning <br>- ⚡ In my free time I</p>
+<p align="left">I'm S Suleman <br><br>- 🔭 I’m working as DevOps Engineer<br>- 📚 Keep on learning <br>- ⚡ Discipline I</p>
 
 ###
 
