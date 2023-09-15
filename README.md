@@ -1,16 +1,5 @@
 <h1 align="center">Hi 👋, I'm S Suleman</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/fazal09/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/sulemanfazal10" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/suleman_fazal_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sulemanfazal12&label=Profile%20views&color=0e75b6&style=flat" alt="sulemanfazal12" /> </p>
 
